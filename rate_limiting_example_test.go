@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	cloudflare "github.com/cloudflare/cloudflare-go"
+	cloudflare "github.com/curtislarson/cloudflare-go"
 )
 
 var exampleNewRateLimit = cloudflare.RateLimit{

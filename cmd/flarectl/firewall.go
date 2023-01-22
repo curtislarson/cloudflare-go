@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/cloudflare/cloudflare-go"
+	"github.com/curtislarson/cloudflare-go"
 	"github.com/urfave/cli/v2"
 )
 
